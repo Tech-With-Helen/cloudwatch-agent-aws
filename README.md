@@ -6,6 +6,6 @@
 5. Still in that branch you created, Push it to your repository
 6. In that same github repo, update the _ReadMe.md_  file with the steps you took to accomplish this
 7. **To Submit :**
-- Send the URL of  your that repository to my email. To be submitted _**before Friday**_
+- Send the _URL_ of  your that repository to my email. To be submitted _**before Friday**_
 
 
